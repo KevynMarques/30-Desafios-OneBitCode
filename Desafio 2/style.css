@@ -1,0 +1,50 @@
+* {
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#geral {
+  background: aqua; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.fundo {
+background: rgb(14, 136, 136); 
+width: 500px;
+height: 500px;
+margin-top: 50px;
+border: solid 1px black;
+border-radius: 10px;
+}
+
+.inputes {
+  margin-left: 110px;
+  margin-top:150px;
+}
+
+#valores {
+  margin-left: 110px;
+  background-color: aliceblue;
+  width: 270px;
+  text-align: center;
+  border-radius: 15px;
+}
+
+#Result {
+  margin-left: 110px;
+  background-color: aliceblue;
+  width: 270px;
+  border-radius: 15px;
+  text-align: center;
+}
+
+.tittle {
+  position: absolute;
+  margin-top:-250px;
+  margin-left: -10px;
+}
+
